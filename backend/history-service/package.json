@@ -1,12 +1,12 @@
 {
-  "name": "question-service",
+  "name": "history-service",
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Taanish",
+  "author": "Mahesh",
   "license": "ISC",
   "description": "",
   "dependencies": {
